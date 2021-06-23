@@ -1,0 +1,5 @@
+commonLabels:
+  app: my-kapp
+resources:
+  - dep.yaml
+  - svc.yaml
