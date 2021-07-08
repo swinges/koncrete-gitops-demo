@@ -3,10 +3,8 @@ kind: Service
 metadata:
   name: simpleservice
 spec:
-  type: NodePort
   ports:
     - port: 80
       targetPort: 9898
-      nodePort: 30007
   selector:
     app: website
