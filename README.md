@@ -13,7 +13,7 @@ For more details, see the [getting started guide](https://docs.koncrete.dev/Gett
 
 A quick summary of the demo steps below:
 - Fork the repository
-- Use Koncrete to connect your git repo to a Kubernetes cluster, automatically creating a webhook for automatic syncing
+- Use [Koncrete](https://www.koncrete.dev/) to connect your git repo to a Kubernetes cluster, automatically creating a webhook for automatic syncing
 - Create an application using the infrastructure defined in this repo
 - Expose a port to view the app
 - Make a change in the git repository and see Koncrete immediately sync the change live
