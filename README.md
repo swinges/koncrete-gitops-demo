@@ -2,11 +2,11 @@
 
 This demo is a simple example of an application that can be easily run on Kubernetes with automatically updating CD.
 
-It contains a basic podinfo app using gitops infrastructure defined through kustomize.
+It contains a basic [podinfo](https://github.com/stefanprodan/podinfo) app using gitops infrastructure defined through [kustomize](https://kustomize.io/).
 
 ## How to start
 
-For more details, see the getting started guide on Koncrete's official documentation page.
+For more details, see the [getting started guide](https://docs.koncrete.dev/Getting-Started-0e835a43c944493ea5a591dea5dc804d) on Koncrete's [official documentation page](https://docs.koncrete.dev/).
 
 A quick summary of the demo steps below:
 - Fork the repository
